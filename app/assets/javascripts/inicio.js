@@ -1,5 +1,8 @@
- //= require jquery3
- //= require jquery
+//= require 'vegas.min.js'
+//= require 'wow.min.js'
+
+
+
  /* jQuery Pre loader
   -----------------------------------------------*/
 $(window).load(function(){

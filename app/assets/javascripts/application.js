@@ -17,5 +17,3 @@
 //= require jquery
 //= require popper
 //= require bootstrap
-//= require vegas.min.js
-//= require_tree .
